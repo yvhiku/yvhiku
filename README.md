@@ -1,29 +1,46 @@
-# Hi there, I’m Fikri “yvhiku” Mohamed 👋
+# 👋 Hi there, I'm **Fikri Mohamed**
 
-**Third-year Computer Engineering student | Aspiring Software Engineer | Seeking Internships**
-
----
-
-## 🎓 About Me
-I’m a third-year Computer Engineering student with a passion for building user-focused applications across mobile, web, and backend systems. I love tackling real-world problems by leveraging modern frameworks and technologies—and I’m actively looking for internship opportunities where I can contribute, learn, and grow.
-
-- 🎯 **Current Goal:** Secure a summer internship in software/mobile development  
-- 💡 **Interests:** Mobile apps, real-time communication, system design, database integration  
-- 🌐 **Location:** Europe (willing to relocate or work remotely)  
-- 📫 **Email:** yvhiku@yandex.ru  
+I'm a **third-year Computer Engineering student** at Penza State University, merging theory with hands-on projects. Currently seeking **internship opportunities** in Mobile and Web development, embedded systems, IoT, or full-stack development to apply my skills and learn in a professional environment.
 
 ---
 
-## 🛠️ Technical Skills
 
-| Category             | Technologies & Tools                              |
-| -------------------- | -------------------------------------------------- |
-| **Languages**        | Dart, Python, PHP, JavaScript, C / C++             |
-| **Mobile & UI**      | Flutter, Material Design, HTML5, CSS3, Bootstrap   |
-| **Backend & APIs**   | Flask, PHP (Apache), REST & WebSocket (Socket.IO)  |
-| **Databases**        | MySQL, SharedPreferences                           |
-| **State & Storage**  | GetX, GetStorage, SharedPreferences                |
-| **Dev Tools**        | Git, GitHub, VS Code, Android Studio, Composer     |
+## 🎓 Education
+
+* **B.Sc. in Computer Engineering**, Penza State University 
+* **Key Courses**: Data Structures & Algorithms, Computer Architecture, Embedded Systems, Operating Systems, Digital Signal Processing
+
+---
+
+## 🚀 Seeking Internship
+
+Open to **internships** in Mobile and Web development,  Embedded Systems, IoT development, or full-stack software engineering. Passionate about practical learning—let’s build something awesome together!
+
+---
+
+## 🛠️ Skills & Technologies
+
+| 🖥️ Languages | 📱 Front-End | ⚙️ Back-End | 💾 Databases  |
+| ------------- | ------------ | ----------- | ------------- |
+| 🅲 C          | 🐦 Flutter   | 🍃 Node.js  | 🐘 PostgreSQL |
+| 🅲➕➕ C++      | ⚛️ React     | 🚂 Express  | 🍃 MongoDB    |
+| 🐍 Python     |              |             | 🗄️ SQLite    |
+| ⚙️ JavaScript |              |             |               |
+| 🔷 TypeScript |              |             |               |
+| 🐚 Bash       |              |             |               |
+
+| 🛠️ Embedded & Hardware | 🔄 DevOps & CI/CD | 🔧 Version Control | 🛡️ Tools & Platforms    |
+| ----------------------- | ----------------- | ------------------ | ------------------------ |
+| 🍓 Raspberry Pi         | 💫 GitHub Actions | ⎇ Git              | 🐧 Linux                 |
+| 🤖 FPGA (Verilog/VHDL)  | 🐳 Docker         | 🐙 GitHub          | 📝 VS Code               |
+|                         |                   |                    | 📋 JIRA / 🗒️ Confluence |
+
+---
+## 📈 GitHub Stats
+
+![yvhiku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yvhiku\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yvhiku\&layout=compact\&theme=radical)
 
 ---
 
@@ -65,18 +82,27 @@ A web-based management dashboard for administering game servers or similar servi
 
 ---
 
-## 📚 Education
-**B.Sc. in Computer Engineering**  
-_[Your University Name]_ · Expected Graduation: 2026
+## 🚧 Current Project
+
+Working on a **web applications** (MERN) that will be publicly released soon—stay tuned for the link and demo! 🚀
 
 ---
 
-## 🔗 Connect With Me
-- 📧 **Email:** yvhiku@yandex.ru  
-- 🌐 **GitHub:** [github.com/yvhiku](https://github.com/yvhiku)  
-- 💼 **LinkedIn:** _(add your LinkedIn URL)_  
+## 🌱 Currently Learning
+
+* Advancing MERN stack
+* Advanced FPGA design & digital signal processing techniques
+* Kubernetes for container orchestration
+* Rust for high-performance systems programming
 
 ---
 
-_Thanks for stopping by!_ 🚀  
-Feel free to explore my projects and reach out if you’d like to collaborate or discuss internship opportunities.
+## 📫 Contact & Connect
+
+* 📧 [yvhiku@yandex.ru](mailto:yvhiku@yandex.ru)
+* 💼 [LinkedIn](https://linkedin.com/in/yvhiku)
+
+---
+
+> “The best way to predict the future is to invent it.” – Alan Kay
+
